@@ -1,0 +1,9 @@
+[submodule "transparent-data-bridge-android"]
+	path = transparent-data-bridge-android
+	url = git@github.com:Big-Kotik/transparent-data-bridge-android.git
+[submodule "transparent-data-bridge-proto"]
+	path = transparent-data-bridge-proto
+	url = git@github.com:Big-Kotik/transparent-data-bridge-proto.git
+[submodule "transparent-data-bridge-server"]
+	path = transparent-data-bridge-server
+	url = git@github.com:Big-Kotik/transparent-data-bridge-server.git
