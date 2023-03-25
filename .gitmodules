@@ -7,3 +7,6 @@
 [submodule "transparent-data-bridge-server"]
 	path = transparent-data-bridge-server
 	url = git@github.com:Big-Kotik/transparent-data-bridge-server.git
+[submodule "transparentb-data-bridge-relay"]
+	path = transparentb-data-bridge-relay
+	url = git@github.com:Big-Kotik/transparentb-data-bridge-relay.git
