@@ -10,3 +10,6 @@
 [submodule "transparentb-data-bridge-relay"]
 	path = transparentb-data-bridge-relay
 	url = git@github.com:Big-Kotik/transparentb-data-bridge-relay.git
+[submodule "transparent-data-bridge-calculator"]
+	path = transparent-data-bridge-calculator
+	url = git@github.com:Big-Kotik/transparent-data-bridge-calculator.git
